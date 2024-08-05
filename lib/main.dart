@@ -153,7 +153,7 @@ class PersonalInfoTab extends StatelessWidget {
                 Container(
                   width: double.infinity,
                   child: Text(
-                    'Brief Bio: A brief bio about yourself.',
+                    'Professional Procrastinator',
                     style: TextStyle(
                       fontSize: 16,
                       color: Color(0xFFD3DBFA),
